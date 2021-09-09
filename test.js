@@ -1,0 +1,1 @@
+const message = "test pinpin"
